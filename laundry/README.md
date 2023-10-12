@@ -1,16 +1,15 @@
-# laundry
+projek belum di selesaikan
 
-A new Flutter project.
+bagian yang sudah selesai :
+cuci setrika :
+  1. penambahan berat untuk cucian
+  2. menu tambahan untuk menambahkan cucian khusus seperti seprei
 
-## Getting Started
+bagian yang belum terselesaikan :
+semua menu selain di atas.
+di menu cuci setrika :
+  1. bayar dan cetak struk
+  2. menu edit untuk custom harga
+  3. total
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+alasan tidak menyelesaikan projek ( di gempur banyak tugas dan kerjaan sampai lupa klo punya projek sendiri)
