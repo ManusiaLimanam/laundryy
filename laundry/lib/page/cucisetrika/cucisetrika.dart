@@ -14,7 +14,7 @@ class _cuciSetrikaState extends State<cuciSetrika>
   @override
   void initState() {
     super.initState();
-    _tabController = TabController(length: 3, vsync: this);
+    _tabController = TabController(length: 2, vsync: this);
   }
 
   @override
@@ -46,17 +46,17 @@ class _cuciSetrikaState extends State<cuciSetrika>
           tambahanCS()
         ],
       ),
-      bottomSheet: Padding(
-        padding: const EdgeInsets.all(10),
-        child: SizedBox(
-          height: MediaQuery.of(context).size.height * 0.05,
-          width: MediaQuery.of(context).size.width,
-          child: ElevatedButton(
-            onPressed: () {},
-            child: Text("cetak Struk"),
-          ),
-        ),
-      ),
+      // bottomSheet: Padding(
+      //   padding: const EdgeInsets.all(10),
+      //   child: SizedBox(
+      //     height: MediaQuery.of(context).size.height * 0.05,
+      //     width: MediaQuery.of(context).size.width,
+      //     child: ElevatedButton(
+      //       onPressed: () {},
+      //       child: Text("cetak Struk"),
+      //     ),
+      //   ),
+      // ),
     );
   }
 }
